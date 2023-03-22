@@ -1,0 +1,17 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "cypress repo for interview purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.1",
+    "cypress-iframe": "^1.0.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-network-idle": "^1.14.2"
+  }
+}
