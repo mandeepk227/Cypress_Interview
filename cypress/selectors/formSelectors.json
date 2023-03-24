@@ -1,0 +1,11 @@
+{
+    "number1": "input[name = 'number1']",
+    "number2": "input[name = 'number2']",
+    "operationDropdown": "#selectOperationDropdown",
+    "calculateButton": "#calculateButton",
+    "operations": "#selectOperationDropdown option",
+    "answerField": "#numberAnswerField",
+    "clearButton": "#clearButton",
+    "integerCheckbox": "#integerSelect",
+    "errorMsg": "#errorMsgField"
+}
